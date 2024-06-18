@@ -1,0 +1,32 @@
+[
+     {
+          "id": 1,
+          "name": "Laptop",
+          "price": 1200,
+          "stock": 50,
+          "brand": "BrandA",
+          "model": "X123",
+          "warranty": "2 years",
+          "category": {}
+     },
+     {
+          "id": 2,
+          "name": "Smartphone",
+          "price": 800,
+          "stock": 200,
+          "brand": "BrandB",
+          "model": "Y456",
+          "warranty": "1 year",
+          "category": {}
+     },
+     {
+          "id": 3,
+          "name": "Office Chair",
+          "price": 150,
+          "stock": 100,
+          "brand": "BrandC",
+          "model": "OC789",
+          "warranty": "3 years",
+          "category": {}
+     }
+]

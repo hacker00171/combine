@@ -1,0 +1,9 @@
+To create the environment : python -m venv (file name)-> we use venv
+			or 
+To create the environment in vscode:ctrl+shift+p and then search environment file after that
+change "select default profile" to cmd 
+
+TO install the fastapi in venv folder --> pip install fastapi[all] and to check whether it install or not type --> pip freeze ( It show's the type of package where install in venv)
+ 
+then import the fast in format "from fastapi import FastAPI" 
+ To run the code type --> "uvicorn filename:variable name(that store the fastapi)"

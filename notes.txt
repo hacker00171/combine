@@ -1,0 +1,15 @@
+API --> Application Programming Interface
+
+API acts as a interface between the two software that allows you to communicate with eachother.
+
+APIs are a set of rules, protocols, and tools that define how software components should interact with each other.
+
+
+
+Https method
+	they are lot methods in it but they are four main operation or methods in it
+
+	*GET  --> it is used to retrieve
+	*POST --> it is used write a new data
+	*PUT -->it is used to update or write the data 
+	*DELETE -->it is used to delete the data
